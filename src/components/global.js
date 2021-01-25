@@ -1,5 +1,6 @@
 import styled from 'styled-components';
 
+//Containers
 export const Container = styled.div`
   display: flex;
   height: 100vh;
@@ -9,4 +10,12 @@ export const Container = styled.div`
   background-color: ${({theme}) => theme.colors.dark};
 `;
 
-//@media (max-width: 600px) {}
+//Texts
+export const Title = styled.h1`
+  font-size: 30px;
+`;
+
+//If you want some responsivity, use this in your style files :)
+//@media (max-width: 600px) {
+//  Some code here.
+//}

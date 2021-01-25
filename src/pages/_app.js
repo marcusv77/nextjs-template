@@ -4,6 +4,7 @@ import theme from '../styles/theme';
 const GlobalStyle = createGlobalStyle`
   * {
     box-sizing: border-box;
+    color: #E0E0E0;
   }
 
   @font-face{

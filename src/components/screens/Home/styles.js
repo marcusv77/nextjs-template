@@ -5,8 +5,8 @@ import logo from '../../../assets/Home/logo.png';
 export const Logo = styled.img.attrs({
   src: logo,
 })`
-  width: 450px;
-  height: auto;
+  width: 150px;
+  height: 90px;
   align-self: center;
   margin: 10px;
 `;
