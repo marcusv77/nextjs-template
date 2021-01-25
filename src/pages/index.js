@@ -5,11 +5,23 @@ import {Container} from '../components/global';
 import Home from '../components/screens/Home';
 
 export default function Index() {
+  const title = "Fernandes - NextJs Template";
+  const description = "NextJs template for your projects.";
+  const keywords = "nextjs, next, reactjs, react, template, web, seo";
+
   return (
     <Container>
       <Head>
-        <title>Fernandes - NextJs Template</title>
         <link rel='icon' href={favicon} />
+        <title>{title}</title>
+        <meta 
+          name="decription"
+          content={description}
+        />
+        <meta 
+          name="keywords"
+          content={keywords}
+        />
       </Head>
 
       <Home />
