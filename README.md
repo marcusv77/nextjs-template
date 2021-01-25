@@ -1,22 +1,22 @@
-## RECEIVING UPDATES
+## COMPLETE
 
 <p align="center">
-   <img src="./image/NextJs.png" alt="ReactJs" width="400"/>
+   <img src="./image/NextJs.png" alt="NextJs" width="200"/>
 </p>
 
 <p align="center">	
    <a href="https://www.linkedin.com/in/marcus-fernandes-f77/">
-      <img alt="Marcus Fernandes" src="https://img.shields.io/badge/Marcus-61dafb?style=flat&logo=linkedin&labelColor=61dafb" />
+      <img alt="Marcus Fernandes" src="https://img.shields.io/badge/Marcus-000?style=flat&logo=linkedin&labelColor=000" />
    </a>
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/marcusv77/reactjs-client?color=61dafb&label=Repo%20size">
-  <img alt="License" src="https://img.shields.io/badge/license-MIT-61dafb">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/marcusv77/nextjs-template?color=000&label=Repo%20size">
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-000">
 </p>
 
 
 ## Features
 
-* Client application consuming RESTful API.
-* Simple scope project to show the mastery of the technologies listed below.
+* Base template to start projects with NextJs.
+* Ensuring static and hybrid server rendering along with good a SEO.
 
 ---
 
@@ -48,7 +48,7 @@ $ cd nextjs-template
 $ yarn install or npm install
 
 # Run Aplication
-$ yarn dev or npm dev
+$ yarn dev or npm run dev
 ```
 Go to http://localhost:3000/ to see the result.
 
