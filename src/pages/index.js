@@ -2,7 +2,7 @@ import Head from 'next/head';
 import favicon from '../public/favicon.ico';
 import {Container} from '../components/global';
 
-import Home from '../components/screens/Home';
+import Home from '../components/sections/home';
 
 export default function Index() {
   const title = "Fernandes - NextJs Template";
