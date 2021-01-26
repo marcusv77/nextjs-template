@@ -1,4 +1,4 @@
-## COMPLETE
+## RECEIVING UPDATES
 
 <p align="center">
    <img src="./image/NextJs.png" alt="NextJs" width="200"/>
