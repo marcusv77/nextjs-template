@@ -4,7 +4,7 @@ import { Logo, Marked } from './styles';
 export default function Home() {
   return (
     <Container>
-      <Logo />
+      <Logo alt="Fernandes logo" />
       <Title>
         <Marked href="https://github.com/marcusv77/nextjs-template">
           NextJs

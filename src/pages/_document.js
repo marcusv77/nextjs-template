@@ -1,5 +1,6 @@
 import Document, { Html, Head, Main, NextScript } from 'next/document';
 import { ServerStyleSheet } from 'styled-components';
+import favicon from '../public/favicon.ico';
 
 class MyDocument extends Document {
   static async getInitialProps(ctx) {
@@ -31,7 +32,11 @@ class MyDocument extends Document {
   render() {
     return (
       <Html lang="pt-br">
-        <Head />
+        <Head>
+          <link rel="icon" href={favicon} />
+          <meta name="viewport" content="width=device-width, initial-scale=1" />
+          <meta httpEquiv="Content-Type" content="text/html; charset=utf-8" />
+        </Head>
         <body>
           <Main />
           <NextScript />
