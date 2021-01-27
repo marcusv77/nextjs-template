@@ -13,6 +13,7 @@ export default function Index() {
         <title>{title}</title>
         <meta name="Description" content={description} />
         <meta name="keywords" content={keywords} />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
       </Head>
       <Home />
     </Container>
