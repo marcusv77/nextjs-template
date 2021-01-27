@@ -1,12 +1,17 @@
-import {Container} from '../../global';
-import {Logo, Marked} from './styles';
-import {Title} from '../../global';
+import React from 'react';
+import { Container, Title } from '../../global';
+import { Logo, Marked } from './styles';
 
 export default function Home() {
   return (
     <Container>
       <Logo />
-      <Title><Marked href={'https://github.com/marcusv77/nextjs-template'}>NextJs</Marked> template</Title>
+      <Title>
+        <Marked href="https://github.com/marcusv77/nextjs-template">
+          NextJs
+        </Marked>{' '}
+        template
+      </Title>
     </Container>
   );
 }

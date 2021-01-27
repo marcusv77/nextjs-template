@@ -1,5 +1,6 @@
-import Document, {Html, Head, Main, NextScript} from 'next/document';
-import {ServerStyleSheet} from 'styled-components';
+import React from 'react';
+import Document, { Html, Head, Main, NextScript } from 'next/document';
+import { ServerStyleSheet } from 'styled-components';
 
 class MyDocument extends Document {
   static async getInitialProps(ctx) {
@@ -27,10 +28,11 @@ class MyDocument extends Document {
       sheet.seal();
     }
   }
+
   render() {
     return (
-      <Html lang='pt-br'>
-        <Head></Head>
+      <Html lang="pt-br">
+        <Head />
         <body>
           <Main />
           <NextScript />

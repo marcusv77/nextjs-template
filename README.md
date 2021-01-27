@@ -22,14 +22,17 @@
 
 ## Technologies
 This project was made using the follow technologies:
-
-* [NextJs](https://nextjs.org/)
-* [Next-Images](https://www.npmjs.com/package/next-images)  
+ 
 * [Javascript](https://www.javascript.com/)      
+* [NextJs](https://nextjs.org/)
+* [Next-Images](https://www.npmjs.com/package/next-images) 
 * [ReactJs](https://reactjs.org/)    
 * [Styled-Components](https://styled-components.com/)
 * [HTML](https://html.com/)       
 * [CSS](https://www.w3.org/Style/CSS/Overview.en.html)  
+* [ESLint](https://eslint.org/)
+* [Prettier](https://prettier.io/)
+* [EditorConfig](https://editorconfig.org/)
 
 ---
 

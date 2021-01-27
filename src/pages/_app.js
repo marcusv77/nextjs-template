@@ -1,5 +1,6 @@
-import {ThemeProvider} from 'styled-components';
-import {GlobalStyle} from '../styles/global';
+import React from 'react';
+import { ThemeProvider } from 'styled-components';
+import GlobalStyle from '../styles/global';
 import theme from '../styles/theme';
 
 function MyApp({ Component, pageProps }) {
