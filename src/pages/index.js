@@ -1,4 +1,3 @@
-import React from 'react';
 import Head from 'next/head';
 import favicon from '../public/favicon.ico';
 import { Container } from '../components/global';

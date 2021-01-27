@@ -1,4 +1,3 @@
-import React from 'react';
 import { Container, Title } from '../../global';
 import { Logo, Marked } from './styles';
 
