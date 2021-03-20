@@ -30,6 +30,7 @@ This project was made using the follow technologies:
 * [Styled-Components](https://styled-components.com/)
 * [HTML](https://html.com/)       
 * [CSS](https://www.w3.org/Style/CSS/Overview.en.html)  
+* [TypeWriter](https://www.npmjs.com/package/typewriter-effect)
 * [ESLint](https://eslint.org/)
 * [Prettier](https://prettier.io/)
 * [EditorConfig](https://editorconfig.org/)

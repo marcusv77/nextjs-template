@@ -6,16 +6,16 @@ export default createGlobalStyle`
     color: #E0E0E0;
   }
 
-  @font-face{
-    font-family: Anton;
-    src: url("../fonts/anton-regular.ttf");
+  span{
+    color: #E0E0E0;
+    font-size: 30px;
   }
 
   html, body {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: Anton;
+    font-family: 'Anton', sans-serif;
   }
 
   a {

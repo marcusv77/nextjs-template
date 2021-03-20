@@ -1,3 +1,4 @@
+import Typewriter from 'typewriter-effect';
 import { Container, Title } from '../../global';
 import { Logo, Marked } from './styles';
 
@@ -11,6 +12,14 @@ export default function Home() {
         </Marked>{' '}
         template
       </Title>
+
+      <Typewriter
+        options={{
+          strings: ['Created by:', 'Marcus Fernandes'],
+          autoStart: true,
+          loop: true,
+        }}
+      />
     </Container>
   );
 }
