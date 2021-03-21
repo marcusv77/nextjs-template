@@ -20,6 +20,12 @@
 
 ---
 
+## Note
+
+* Perform update of the dependencies so that the template is always accessible.
+
+---
+
 ## Technologies
 This project was made using the follow technologies:
  
