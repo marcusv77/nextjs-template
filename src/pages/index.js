@@ -1,6 +1,6 @@
 import Head from 'next/head';
 import { Container } from '../components/global';
-import Home from '../components/sections/home';
+import Home from '../sections/home';
 
 export default function Index() {
   const title = 'Fernandes - NextJs Template';

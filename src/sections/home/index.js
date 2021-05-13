@@ -1,8 +1,8 @@
 import Image from 'next/image';
 import Typewriter from 'typewriter-effect';
-import { Container, Title } from '../../global';
+import { Container, Title } from '../../components/global';
 import { Marked } from './styles';
-import logo from '../../../public/assets/home/logo.png';
+import logo from '../../public/assets/home/logo.png';
 
 export default function Home() {
   return (
