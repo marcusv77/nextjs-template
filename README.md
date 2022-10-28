@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">	
-   <a href="https://www.linkedin.com/in/marcus-fernandes-f77/">
+   <a href="https://www.linkedin.com/in/marcusvsfernandes/">
       <img alt="Marcus Fernandes" src="https://img.shields.io/badge/Marcus-000?style=flat&logo=linkedin&labelColor=000" />
    </a>
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/marcusv77/nextjs-template?color=000&label=Repo%20size">
